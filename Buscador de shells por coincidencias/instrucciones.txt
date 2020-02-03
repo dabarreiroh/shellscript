@@ -1,0 +1,11 @@
+Instrucciones:
+
+1)Descargue FINALDATASHELLS ,FINALDATATICKETS, pshell.sh, whodomip.sh
+
+2)Ejecute pshell.sh, para ello si se desea, puede darle permisos de ejecutable y ejecutar desde consola.
+
+3)Una ves abierto le pedirá una url, considere introducir la url con el http:// y oprima enter.
+
+4) Le arrojará url de datos anterirores que podrá utilizar para analizar mas al fondo el caso, y si encuentra coincidencias, tambien arrojará posibles nombres y ubicaciones de shells basado en shells halladas anteriormente.Si no se encuentra nada se recomienda usar otro metodo de busqueda de vulnerabilidades.
+
+NOTA: se recomienda mantener actualizadas las listas FINALDATASHELLS Y FINALDATATICKETS manteniendo el formato de cad a una. 
